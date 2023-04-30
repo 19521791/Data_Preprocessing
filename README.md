@@ -1,1 +1,1 @@
-<h1>Data Preprocessing</h1>
+<h1 align=center>Data Preprocessing</h1>
